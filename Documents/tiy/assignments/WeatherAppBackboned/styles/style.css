@@ -1,0 +1,36 @@
+body{
+	background: #FFFD98;
+	font-family: 'Farsan', cursive;
+}
+
+h1 {
+	font-family: 'Farsan', cursive;
+	color: #7BDFF2;
+}
+
+p {
+	font-size: 15px;
+	margin: 0;
+}
+
+input {
+	width: 30%;
+}
+
+button {
+	width:32%;
+	background: #FFFFFF;
+	
+}
+
+.buttContainer {
+	width: 31%;
+
+}
+
+.daily {
+	display: block;
+	width: 20%;
+	background: rgba(255,255,255,.5);
+	border-bottom: 1px solid grey;
+}
